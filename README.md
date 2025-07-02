@@ -18,5 +18,7 @@ pip install streamlit pyperclip
 Due modi per eseguire l'app:
 ```bash
 streamlit run password_generator.py
+```
+```bash
 python -m streamlit run password_generator.py --server.port 8501 #through .bat file
 ```
